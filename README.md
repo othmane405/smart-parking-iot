@@ -18,3 +18,6 @@ Système complet de gestion et de suivi en temps réel de places de stationnemen
 - `src/` : Scripts MicroPython pour ESP32 (gestion capteurs et client MQTT)
 - `node-red/` : Flux et tableaux de bord Node-RED (fichier JSON)
 <img width="1890" height="920" alt="image" src="https://github.com/user-attachments/assets/7605a2b8-c384-426a-939f-22351a2c6a65" />
+
+<img width="1885" height="915" alt="image" src="https://github.com/user-attachments/assets/7f8aa3de-49a8-4fb0-a39b-1f9e6b496974" />
+
